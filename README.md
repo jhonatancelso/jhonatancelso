@@ -10,7 +10,28 @@ I'm J.
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
+  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
+  <img align="center" alt="Next.JS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
+  <img align="center" alt="Vue.JS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
+  <img align="center" alt="Node.JS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" />
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />
+  <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="Zend Framework" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zendframework.svg" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Vue.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -20,7 +41,7 @@ I'm J.
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="Zend Framework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" />
+  <img align="center" alt="Zend Framework" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zendframework.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
