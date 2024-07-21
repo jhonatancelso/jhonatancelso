@@ -10,7 +10,7 @@ I'm J.
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg)" />
+  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
   <img align="center" alt="Next.JS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
